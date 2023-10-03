@@ -1,0 +1,3 @@
+C:/Users/coren/OneDrive/Documents/GitHub/sysinfo/cmake-build-debug/CMakeFiles/sysinfo.dir
+C:/Users/coren/OneDrive/Documents/GitHub/sysinfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/coren/OneDrive/Documents/GitHub/sysinfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
